@@ -1,0 +1,2 @@
+# barbershop
+Aplikasi Kasir Barbershop
